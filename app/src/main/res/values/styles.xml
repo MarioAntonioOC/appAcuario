@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Apptheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="Apptheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Customize your theme here. -->
-
+            <item name="android:windowContentTransitions">true</item>
     </style>
 </resources>

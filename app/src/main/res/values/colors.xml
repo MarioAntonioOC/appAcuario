@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    //
+    <color name="azul_1">#4fc3f7</color>
+    <color name="azul_2">#8bf6ff</color>
+    <color name="azul_3">#0093c4</color>
+
+    <color name="morado_1">#b39ddb</color>
+    <color name="morado_2">#835DAC</color>
+    <color name="morado_3">#836fa9</color>
+
+    <color name="amarillo_1">#fbc02d</color>
+    <color name="amarillo_2">#fff263</color>
+    <color name="amarillo_3">#c49000</color>
 </resources>

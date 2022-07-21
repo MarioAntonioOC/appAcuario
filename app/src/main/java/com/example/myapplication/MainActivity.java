@@ -25,13 +25,12 @@ public class MainActivity extends AppCompatActivity {
         ImageView logoImageView = findViewById(R.id.LogoImageView);
         logoImageView.setAnimation(animacion1);
 
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
+        new Handler().postDelayed(()-> {
+
                 Intent intent = new Intent(MainActivity.this, LoginActivity.class);
                 startActivity(intent);
                 finish();
-            }
+
         }, 4000);
     }
 }
